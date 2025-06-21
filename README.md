@@ -34,7 +34,7 @@ Unspoken Signals: Voice-Based AI to Decode Emotions
 
 ----------------------------------------------
 
-# Details about the Dataset
+# Details about the Datasets
 
 - **Name of the Dataset:** RAVDESS Emotional Speech Audio
 - **Description of the dataset:** Speech audio-only files (16bit, 48kHz .wav) from the RAVDESS. 
