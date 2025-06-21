@@ -7,7 +7,7 @@
 5.  [Goal of this Project](#goal-of-this-project)
 6.  [Project Requirements](#project-requirements)
 7.  [Usage Instructions in Local System and Google Colab](#usage-instructions-in-local-system-and-google-colab)
-8.  [Detailed Consclusion with points](#detailed-conclusion-with-points)
+8.  [Detailed Conclusion with points](#detailed-conclusion-with-points)
 9.  [Key Takeaways](#key-takeaways)
 10. [Recommendation for this project](#recommendation-for-this-project)
 11. [Future Improvements](#future-improvements)
@@ -140,7 +140,7 @@ pip3 install -r requirements.txt
 
 ----------------------------------------------
 
-# Detailed Consclusion with points
+# Detailed Conclusion with points
 
 - Best Classical ML Model: `Extra Trees`
   - Achieved **highest accuracy (79.67%)**, **precision (80.05%)**, and **F1-score (79.65%)**
