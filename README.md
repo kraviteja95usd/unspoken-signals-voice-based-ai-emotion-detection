@@ -191,7 +191,7 @@ pip3 install -r requirements.txt
 
 # Deployment of the trained best model
 
-- Justification for Not Fully Deploying the Model
+***Justification for Not Fully Deploying the Model:***
 
 While full deployement of the emotion detection (via a voice assistant or a chatbot) would have engaged us far more hands-on in practical learnings, a broader set of constraints led us to focus on deployment planning as a conceptual exercise:
 
