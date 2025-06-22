@@ -203,18 +203,18 @@ While full deployement of the emotion detection (via a voice assistant or a chat
 
 - **Hypothetical Deployment Plan (Fulfilling Assignment Requirement):**
 
-Although not a deployment, a full deployment scenario is planned and described below as required by the project deployment description: 
+	Although not a deployment, a full deployment scenario is planned and described below as required by the project deployment description: 
 
-| **Component**       | **Plan**                                                                 |
-|---------------------|--------------------------------------------------------------------------|
-| **Use Case**        | Real-time emotion detection using a chatbot or voice assistant application.               |
-| **Deployment Type** | **Real-Time Inference** - Immediate return of emotion inference on audio input.       |
-| **Backend**         | Python API with **FastAPI** or **Flask** to serve the trained model.     |
-| **Frontend**        | A web interface or mobile application with live audio input through the use of WebRTC or HTML5.   |
-| **Hosting**         | The model hosted on **AWS EC2** or with **Azure App Service docker** support. 
-| **Latency Target**  | Less than 300 ms inference time to allow for smooth interaction with the user.                       |
-| **Cost Consideration** | Initial deployment using a low-tier cloud instance (i.e., AWS or Azure) and autoscaling later if needed.  |                |
-| **Security**        | Token-based API authentication, HTTPS frontend, and CORS policy.       |
+	| **Component**       | **Plan**                                                                 |
+	|---------------------|--------------------------------------------------------------------------|
+	| **Use Case**        | Real-time emotion detection using a chatbot or voice assistant application.               |
+	| **Deployment Type** | **Real-Time Inference** - Immediate return of emotion inference on audio input.       |
+	| **Backend**         | Python API with **FastAPI** or **Flask** to serve the trained model.     |
+	| **Frontend**        | A web interface or mobile application with live audio input through the use of WebRTC or HTML5.   |
+	| **Hosting**         | The model hosted on **AWS EC2** or with **Azure App Service docker** support. 
+	| **Latency Target**  | Less than 300 ms inference time to allow for smooth interaction with the user.                       |
+	| **Cost Consideration** | Initial deployment using a low-tier cloud instance (i.e., AWS or Azure) and autoscaling later if needed.  |                |
+	| **Security**        | Token-based API authentication, HTTPS frontend, and CORS policy.       |
 
 - Deployment related Summary
 
