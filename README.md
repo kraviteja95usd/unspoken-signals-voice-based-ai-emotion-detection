@@ -131,7 +131,7 @@ pip3 install -r requirements.txt
 ```
 
 - Follow these guidelines to execute in Google Colab
-  - Download the dataset zip file from https://zenodo.org/records/1188976.
+  - Download the dataset zip file from [Kaggle](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio?resource=download).
   - Rename the downloaded dataset and upload it to your Google Drive.
   - Open the [colab notebook](https://github.com/kraviteja95usd/unspoken-signals-voice-based-ai-emotion-detection/blob/main/Ravi%20Teja%20Kothuru_Final%20Project%20AAI-510-Section%20IN2-Team%2014.ipynb) into your Colab account.
   - Change the **Extract Audio Dataset** section with the path to the dataset zip file you saved.
