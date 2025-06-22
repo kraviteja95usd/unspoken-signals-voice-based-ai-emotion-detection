@@ -167,7 +167,7 @@ pip3 install -r requirements.txt
 | F1 Score (%)            | **79.65%**                           | 74.97%                                           |
 | Precision (%)           | **80.05%**                           | *NA*                                   |
 | Recall (%)              | **79.67%**                           | *NA*                                   |
-| Loss                    | **0.20**                             | *NA*                                   |
+| Loss                    | **0.20**                             | **0.80**                                   |
 | Interpretability        | High                                 | Low                                            |
 | Training Time           | Low                                  | Higher                                         |
 | Tuning Complexity       | Low                                  | Medium to High                                 |
