@@ -136,6 +136,7 @@ pip3 install -r requirements.txt
   - Open the [colab notebook](https://github.com/kraviteja95usd/unspoken-signals-voice-based-ai-emotion-detection/blob/main/Ravi%20Teja%20Kothuru_Final%20Project%20AAI-510-Section%20IN2-Team%2014.ipynb) into your Colab account.
   - Change the **Extract Audio Dataset** section with the path to the dataset zip file you saved.
   - Run the entire colab notebook. You will be able to view the results.
+  - **Note:** While you execute the 'spectograms' section of the code, you will notice that the runtime will be disconnected. Don't panic! Just ignore that cell and re-execute the remaining code cells. If you are interested to have a look at few spectograms of each emotion type, you can view them [here](https://github.com/kraviteja95usd/unspoken-signals-voice-based-ai-emotion-detection/tree/main/spectograms-of-each-emotion).
 
 
 ----------------------------------------------
