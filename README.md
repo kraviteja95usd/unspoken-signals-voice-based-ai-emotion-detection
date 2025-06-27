@@ -104,7 +104,7 @@ Unspoken Signals: Voice-Based AI to Decode Emotions
 # Usage Instructions in Local System and Google Colab
 - Clone using HTTPS
 ```commandline
-[https://github.com/MNiazM/Human-Presence-Detection-in-Aerial-Distress-Scenario-Photographs.git](https://github.com/kraviteja95usd/unspoken-signals-voice-based-ai-emotion-detection.git)
+[https://github.com/kraviteja95usd/unspoken-signals-voice-based-ai-emotion-detection.git](https://github.com/kraviteja95usd/unspoken-signals-voice-based-ai-emotion-detection.git)
 ```
 OR - 
 
